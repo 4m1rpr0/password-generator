@@ -31,4 +31,3 @@ for number in range(len_number):
         print(random.choice(char_finally))
     else:
         print(random.choice(char_finally), end="")
-print(char_finally)
